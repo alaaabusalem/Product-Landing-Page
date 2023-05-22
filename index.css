@@ -134,7 +134,7 @@ nav > ul {
   justify-content: center;
   text-align: center;
   height: 200px;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 #hero > h2 {
@@ -236,12 +236,12 @@ nav > ul {
   text-align: center;
   width: calc(100% / 3);
   margin: 10px;
-  border: 1px solid #000;
+  border: 1px solid #00000079;
   border-radius: 3px;
 }
 
 .product > .level {
-  background-color: #ddd;
+  background-color: #9e9494;
   color: black;
   padding: 15px 0;
   width: 100%;
